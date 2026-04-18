@@ -1,24 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=240&section=header&text=Vin%C3%ADcius&fontSize=85&fontColor=ffffff" alt="header waving" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=300&section=header&text=Vin%C3%ADcius&fontSize=95&fontColor=ffffff" alt="header waving" />
 </div>
 
 # Hi 👋, Eu sou Vinícius da Silva Sousa
 
 ### Desenvolvedor Júnior Front-end | React + Tailwind CSS | Fortaleza-CE
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniciusafw&label=Visualizações do perfil&color=ef4444&style=flat" alt="viniciusafw" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=viniciusafw&theme=dracula" alt="viniciusafw" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=Status&message=Disponível%20para%20Oportunidades&color=ef4444&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/viniciusafw?label=Followers&style=for-the-badge&color=222" />
 </p>
 
 ---
 
-### Sobre Mim
+### 🚀 Sobre Mim
+
+<div style="background: #ef4444; height: 5px; margin: 25px 0; border-radius: 4px;"></div>
 
 Olá! Sou desenvolvedor júnior front-end apaixonado por criar interfaces modernas, responsivas e com ótima experiência do usuário. Tenho foco em **React**, **Tailwind CSS** e componentização limpa.
 
@@ -26,73 +23,45 @@ Atualmente estou no 3º ano do Técnico em Informática (EEEP Joaquim Antônio A
 
 ---
 
-- 🔭 **Atualmente estou trabalhando em**  
-  Food-express (React + TypeScript + Tailwind) — Integrando o back-end com o front-end
+### 💻 O que eu ando fazendo?
 
-- 🌱 **Atualmente estou aprendendo**  
-  React avançado, integração de APIs REST e Cloud Foundations (AWS)
-
-- 👯 **Procuro colaborar em**  
-  Projetos de Front-end com React, interfaces modernas e aplicações web responsivas
-
-- 🤝 **Estou em busca de**  
-  Oportunidades de estágio ou vaga Júnior como Desenvolvedor Front-end
-
-- 💬 **Pergunte-me sobre**  
-  React, Tailwind CSS, projetos em equipe, dashboards ou To-Do List
-
-- 📫 **Como entrar em contato**  
-  vdasilvasouza77@gmail.com
-
-- ⚡ **Curiosidade**  
-  Sou de Fortaleza-CE e adoro transformar ideias em interfaces bonitas e funcionais
+- 🔭 **Atualmente trabalhando em:** [Food-express](https://github.com/viniciusafw) (React + TypeScript + Tailwind)
+- 🌱 **Aprendendo no momento:** React Avançado, Integração de APIs REST e Cloud Foundations (AWS)
+- 🤝 **Colaborações:** Aberto a projetos de Front-end com interfaces modernas e Dashboards
+- ⚡ **Curiosidade:** Adoro transformar designs do Figma em código real e funcional
 
 ---
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left" style="color: #ef4444;">🛠 Linguagens e Ferramentas:</h3>
 <p align="left">
-  <a href="https://github.com/viniciusafw" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="viniciusafw" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,mysql,git,github,vscode,figma" />
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left" style="color: #ef4444;">🔗 Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
-  </a>
+<a href="mailto:vdasilvasouza77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://github.com/viniciusafw" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusafw&show_icons=true&locale=pt-br&layout=compact" alt="viniciusafw" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusafw&show_icons=true&locale=pt-br" alt="viniciusafw" /></p>
+<h3 align="left" style="color: #ef4444;">📊 Estatísticas do GitHub:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusafw&locale=pt-br" alt="viniciusafw" /></p>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusafw&show_icons=true&locale=pt-br&layout=compact&theme=dracula" alt="viniciusafw" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusafw&show_icons=true&locale=pt-br&theme=dracula" alt="viniciusafw" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusafw&locale=pt-br&theme=dracula" alt="viniciusafw" />
+</p>
+
+
+<h3 align="left" style="color: #ef4444;">🐍 Meu Snake Game:</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/viniciusafw/viniciusafw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=130&section=footer" alt="footer waving" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=150&section=footer" alt="footer waving" />
 </div>

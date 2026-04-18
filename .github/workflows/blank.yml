@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Roda a cada 6 horas
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -15,17 +15,17 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: viniciusafw
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#ef4444&color_dots=#161b22,#ef4444,#dc2626,#991b1b,#7f1d1d
+            dist/snake.svg?palette=github-dark&color_snake=#ef4444&color_dots=#161b22,#ef4444,#dc2626,#991b1b,#7f1d1d
           
-      - name: Push changes
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

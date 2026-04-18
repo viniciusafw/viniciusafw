@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=ef4444&height=220&section=header&text=Vin%C3%ADcius&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="header wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=240&section=header&text=Vin%C3%ADcius&fontSize=85&fontColor=ffffff" alt="header waving" />
 </div>
 
 # Hi 👋, Eu sou Vinícius da Silva Sousa
@@ -94,5 +94,5 @@ Atualmente estou no 3º ano do Técnico em Informática (EEEP Joaquim Antônio A
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusafw&locale=pt-br" alt="viniciusafw" /></p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=ef4444&height=120&section=footer" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=130&section=footer" alt="footer waving" />
 </div>

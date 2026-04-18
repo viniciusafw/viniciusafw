@@ -57,11 +57,6 @@ Atualmente estou no 3º ano do Técnico em Informática (EEEP Joaquim Antônio A
 </p>
 
 
-<h3 align="left" style="color: #ef4444;">🐍 Meu Snake Game:</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/viniciusafw/viniciusafw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=150&section=footer" alt="footer waving" />
 </div>

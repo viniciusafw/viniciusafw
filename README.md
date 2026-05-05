@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=300&section=header&text=Vin%C3%ADcius&fontSize=95&fontColor=ffffff" alt="header waving" />
 </div>
 
-# Hi 👋, Eu sou Vinícius da Silva Sousa
+# Ola 👋, Eu sou Vinícius da Silva Sousa
 
 ### Desenvolvedor Júnior Front-end | React + Tailwind CSS | Fortaleza-CE
 

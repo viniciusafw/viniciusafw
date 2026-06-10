@@ -24,6 +24,8 @@ Sou desenvolvedor full-stack júnior com experiência tanto no front-end quanto 
 
 Atualmente curso o **3º ano do Técnico em Informática** na **EEEP Joaquim Antônio Albano**, com conclusão prevista para **dezembro de 2026**.
 
+Busco minha primeira oportunidade como **Estagiário Full-stack** ou **Desenvolvedor Júnior**, onde possa atuar em toda a stack, evoluir tecnicamente e contribuir com projetos reais.
+
 ---
 
 ## Atualmente
@@ -100,12 +102,11 @@ Aplicação web full-stack com interface moderna, responsiva e bem estruturada, 
   />
 </p>
 
-<p align="left">
-  <img 
-    src="https://streak-stats.demolab.com/?user=viniciusafw&locale=pt_BR&theme=dracula" 
-    alt="Sequência de contribuições no GitHub" 
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viniciusafw/viniciusafw/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/viniciusafw/viniciusafw/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="cobrinha de contribuições" src="https://github.com/viniciusafw/viniciusafw/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 

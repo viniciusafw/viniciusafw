@@ -8,7 +8,7 @@
 <h1 align="center">Olá, eu sou Vinícius da Silva Sousa</h1>
 
 <h3 align="center">
-  Desenvolvedor Front-end Júnior | React | Tailwind CSS | TypeScript
+  Desenvolvedor Full-stack Júnior &nbsp;|&nbsp; React · Laravel · TypeScript · PHP
 </h3>
 
 <p align="center">
@@ -20,27 +20,37 @@
 
 ## Sobre mim
 
-Sou desenvolvedor front-end júnior, com foco na criação de interfaces modernas, responsivas e bem estruturadas. Tenho interesse especial em desenvolvimento com **React**, **Tailwind CSS**, **TypeScript** e boas práticas de componentização.
+Sou desenvolvedor full-stack júnior com experiência tanto no front-end quanto no back-end. No front, construo interfaces modernas e responsivas com **React**, **TypeScript** e **Tailwind CSS**. No back, desenvolvo APIs e sistemas web com **PHP** e **Laravel**, utilizando **MySQL** para modelagem e persistência de dados.
 
 Atualmente curso o **3º ano do Técnico em Informática** na **EEEP Joaquim Antônio Albano**, com conclusão prevista para **dezembro de 2026**.
-
-Busco minha primeira oportunidade profissional como **Estagiário em Desenvolvimento Front-end** ou **Desenvolvedor Front-end Júnior**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
 
 ---
 
 ## Atualmente
 
-- Desenvolvendo projetos com **React, TypeScript e Tailwind CSS**
-- Estudando **React avançado**, **consumo de APIs REST** e fundamentos de **Cloud Computing com AWS**
-- Aprimorando minhas habilidades em criação de interfaces a partir de layouts no **Figma**
-- Aberto a oportunidades de estágio, projetos front-end e colaboração em aplicações web
+- Desenvolvendo aplicações full-stack com **React + Laravel** e integração via **APIs REST**
+- Aprofundando conhecimentos em **Laravel** (Eloquent ORM, autenticação, rotas RESTful)
+- Estudando **React avançado**, **TypeScript** e fundamentos de **Cloud Computing com AWS**
+- Praticando criação de interfaces a partir de layouts no **Figma**
+- Aberto a oportunidades de estágio, freelas e colaboração em projetos web
 
 ---
 
-## Tecnologias e ferramentas
+## Stack
 
+### Front-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,php,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" />
+</p>
+
+### Back-end & Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+### Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -49,15 +59,14 @@ Busco minha primeira oportunidade profissional como **Estagiário em Desenvolvim
 
 ### Food Express
 
-Aplicação web desenvolvida com foco em interface moderna, responsividade e organização de componentes.
+Aplicação web full-stack com interface moderna, responsiva e bem estruturada, desenvolvida com foco em componentização e boas práticas.
 
 **Tecnologias utilizadas:**
 
-- React
-- TypeScript
-- Tailwind CSS
+- React · TypeScript · Tailwind CSS (front-end)
+- PHP · MySQL (back-end)
 
-<a href="https://github.com/viniciusafw" target="_blank">
+<a href="https://github.com/viniciusafw/food-express" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20projeto-GitHub-ef4444?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -69,7 +78,6 @@ Aplicação web desenvolvida com foco em interface moderna, responsividade e org
   <a href="mailto:vdasilvasouza77@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/viniciusafw" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -85,7 +93,6 @@ Aplicação web desenvolvida com foco em interface moderna, responsividade e org
     src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusafw&show_icons=true&locale=pt-br&layout=compact&theme=dracula" 
     alt="Linguagens mais usadas" 
   />
-
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=viniciusafw&show_icons=true&locale=pt-br&theme=dracula" 
@@ -95,7 +102,7 @@ Aplicação web desenvolvida com foco em interface moderna, responsividade e org
 
 <p align="left">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusafw&locale=pt-br&theme=dracula" 
+    src="https://streak-stats.demolab.com/?user=viniciusafw&locale=pt_BR&theme=dracula" 
     alt="Sequência de contribuições no GitHub" 
   />
 </p>
